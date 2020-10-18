@@ -1,1 +1,1 @@
-#MIT-Tubingen-Image-Saliency
+MIT-Tubingen-Image-Saliency
